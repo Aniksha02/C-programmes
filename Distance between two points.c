@@ -16,6 +16,6 @@ int main()
 
     d = sqrt(pow((x2-x1),2) +pow((y2 -y1),2));
 
-    printf("the distance btw the lines are %f",d);
+    printf("the distance btw the points are %f",d);
     return 0;
 }
