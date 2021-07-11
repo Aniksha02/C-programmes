@@ -5,6 +5,7 @@ void main()
   
 printf("Enter the value of m,n: \n");
 scanf("%d%d",&m,&n);
+       { printf ("The numbers are:"); }
   
 while(m<=n)
 {
